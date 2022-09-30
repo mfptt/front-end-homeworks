@@ -1,0 +1,51 @@
+body{ background-color:whitesmoke;
+}
+
+h1 { color:black;  
+font-style: initial;
+font-size: 200%;
+padding: 10;
+text-align: center;
+}
+
+h2 {
+margin: auto;
+text-align: center;
+
+
+}
+
+body { background-color: white;
+}
+
+ul {
+list-style-type: none;
+margin: auto;
+padding: 0;
+overflow: hidden;
+text-align: center;
+width : 100;
+display:table;
+float:none;
+}
+
+
+li {
+    float: left;
+    margin: auto;
+}
+
+li a {
+    display: inline-block;
+
+    padding: 5px 210px;
+color: black;
+}
+
+footer {
+text-align: center;
+}
+
+
+
+
